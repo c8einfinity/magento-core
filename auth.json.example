@@ -1,0 +1,12 @@
+{
+  "http-basic": {
+    "composer.amasty.com": {
+      "username": "xxx",
+      "password": "xxx"
+    },
+    "repo.magento.com": {
+      "username": "xxx",
+      "password": "xxx"
+    }
+  }
+}
