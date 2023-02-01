@@ -3,7 +3,7 @@
  - Install the latest version of PHP and enable all the extensions for magento
  - Install composer
  - Install Docker
- - Create auth.json file for magento credentials
+ - Create auth.json file for magento credentials https://devdocs.magento.com/guides/v2.3/install-gde/prereq/connect-auth.html
  - Run the following Steps
 
 # Step 1
