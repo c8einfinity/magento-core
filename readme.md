@@ -49,3 +49,16 @@ Linux:
 ```bash
 sysctl -w vm.max_map_count=262144
 ```
+
+**Helper CLI Scripts**
+
+```bash
+# Install Sample Data
+sample-data
+
+# Run Magento bin
+magento [arguments]
+
+# Clear Caches
+cache-clear
+```
